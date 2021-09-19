@@ -1,0 +1,1 @@
+cp /var/lib/jenkins/workspace/jenkinsfirst/target/creditbill_war-v1.war /home/ubuntu/tomcat8/webapps
