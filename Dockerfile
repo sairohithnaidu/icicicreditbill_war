@@ -1,2 +1,2 @@
 FROM tomcat:8
-COPY terget/*.war /user/local/tomcat/webapps/
+COPY target/*.war /user/local/tomcat/webapps/
